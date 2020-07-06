@@ -1,3 +1,7 @@
+# 0.2.0-dev.1
+
+- **BREAKING**: upgrade to cubit `^0.2.0`
+
 # 0.1.0-dev.3
 
 - fix: upgrade to cubit `v0.1.2`
