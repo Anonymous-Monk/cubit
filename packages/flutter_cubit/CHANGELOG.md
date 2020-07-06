@@ -1,3 +1,7 @@
+# 0.2.0-dev.1
+
+- **BREAKING**: upgrade to cubit `^0.2.0`
+
 # 0.1.0
 
 - **BREAKING**: rename `condition` in `CubitBuilder` to `buildWhen`
