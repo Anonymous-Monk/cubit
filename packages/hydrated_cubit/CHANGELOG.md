@@ -1,3 +1,7 @@
+# 0.2.0-dev.1
+
+- **BREAKING**: upgrade to cubit `^0.2.0`
+
 # 0.1.2
 
 - fix: reintroduce migration code to ensure no data loss ([#67](https://github.com/felangel/hydrated_bloc/issues/67))
